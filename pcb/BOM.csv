@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"Cin1,Cout1","2","C","","","","","${EXCLUDE_FROM_POS_FILES}","Capacitor_SMD:CP_Elec_6.3x5.3",""
+"D1","1","D","","","","","${EXCLUDE_FROM_POS_FILES}","Diode_SMD:D_SMA",""
+"J1,J2","2","Conn_01x02","","","","","${EXCLUDE_FROM_POS_FILES}","TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm",""
+"L1","1","L","","","","","${EXCLUDE_FROM_POS_FILES}","Inductor_SMD:L_1812_4532Metric",""
+"U1","1","LM2596S-5","","","","","${EXCLUDE_FROM_POS_FILES}","Package_TO_SOT_SMD:TO-263-5_TabPin3","http://www.ti.com/lit/ds/symlink/lm2596.pdf"
